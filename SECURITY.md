@@ -12,7 +12,7 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-If you discover any security related issues, please email **[seu-email@dominio.com]** instead of using the issue tracker.
+If you discover any security related issues, please email **[joaopaulo187543@gmail.com]** instead of using the issue tracker.
 
 All security vulnerabilities will be promptly addressed. Please provide detailed information about the vulnerability, including:
 1. Steps to reproduce
